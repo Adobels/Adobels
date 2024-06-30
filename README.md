@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Blog Posts:
+Blog Posts on Swift and iOS:
 
-- [2024-06-29 Execute code once or first time execution in Swift](2024-06-29-Detecting-The-First-Time-Call-Of-ViewWillAppear.md)
+- [2024-06-29 Detecting the First-Time Call of viewWillAppear](2024-06-29-Detecting-The-First-Time-Call-Of-ViewWillAppear.md)
 
 <!--
 **Adobels/adobels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
