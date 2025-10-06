@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Career in mobile dev? UIKit 100% in code?
+Let's chat -> https://calendly.com/blaze_dev/30min
+
 Blog Posts on Swift and iOS:
 
 - [2024-06-29 Detecting the First-Time Call of viewWillAppear](2024-06-29-Detecting-The-First-Time-Call-Of-ViewWillAppear.md)
